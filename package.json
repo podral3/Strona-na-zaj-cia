@@ -1,0 +1,18 @@
+{
+  "name": "ol-studia",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "ol": "^8.2.0",
+    "vite": "^5.0.10"
+  }
+}
