@@ -12,3 +12,11 @@ body {
   bottom: 0;
   width: 100%;
 }
+.custom-mouse-position{
+  position: fixed;
+  top: auto;
+  right: auto;
+  bottom: 5px;
+  left: 50%;
+  transform: translateX(-50%);
+}
